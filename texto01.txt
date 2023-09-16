@@ -4,6 +4,8 @@ Parrafo 1: Texto del Parrafo...
 
 Parrafo 2: Texto del Parrafo
 
+Parrafo 2.1: Parrafo intermedio...
+
 Parrafo 3: Texto del parrafo faltante
 
 Parrafo 3.1: Texto parrafo intermedio
