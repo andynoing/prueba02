@@ -8,4 +8,6 @@ Parrafo 3: Texto del parrafo faltante
 
 Parrafo 3.1: Texto parrafo intermedio
 
+Parrafo 3.2: Sub intermedio
+
 Parrafo 4: Texto del parrafo
